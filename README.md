@@ -1,6 +1,6 @@
 # OOP(object oriented programing)
 
-- OOP has some fundamentals concept that you need to analyse on a given problem description.- in order to successfull model a problem domain you to know this fundamentals that is `class`,`object`,and `state` 
+- OOP has some fundamentals concept that you need to analyse on a given problem description.-in order to successfull model a problem domain you need to know this fundamentals, that is `class`,`object`,and `state` 
 
 
 - Here is how you could model a rock,paper,scissors game using OOP given a problem description
